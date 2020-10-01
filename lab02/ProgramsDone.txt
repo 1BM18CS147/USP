@@ -1,0 +1,3 @@
+1)Expr to evaluate arthimetic operations
+2)Display attributes,contents and word count for a user entered FileName
+3)Perform copy, rename operations by accepting two filenames from User
